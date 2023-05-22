@@ -1,0 +1,37 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+html{
+    background-color: #7a7a7a47;
+}
+
+.container{
+    width:80%;
+    margin:0 auto;
+    padding: 100px;
+
+}
+
+section{
+    margin-top:30px;
+}
+
+.instructions{
+    width: 70%;
+    
+    float:left;
+}
+
+img{
+    float:right;
+   
+}
+
+.clear-float{
+    clear:left;
+    
+}
+
